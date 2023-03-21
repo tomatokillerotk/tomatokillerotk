@@ -5,7 +5,7 @@
 
 **Website**  
 * React Flask  
-* Html Css Javascript  
+* Html CSS Javascript  
 
 **Programing Language**  
 * C++  
