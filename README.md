@@ -1,7 +1,7 @@
-## [personal homepage](https://tomatokillerotk.github.io/)
+## [Personal Website](https://tomatokillerotk.github.io/)
 
 
-## skill
+## Skill
 
 **Website**  
 * React Flask  
