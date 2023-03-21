@@ -1,20 +1,23 @@
-## personal homepage
+## [personal homepage](https://tomatokillerotk.github.io/)
 
 
 ## skill
 
-* website
-react flask bootstrap
+**Website**  
+* React Flask  
+* Html Css Javascript  
 
+**Programing Language**  
+* C++  
+* Python  
+* Rust  
+[Leetcode profile](https://leetcode.com/tomatokillerotk/)  
 
-* coding language
-C++
-Python 
-Rust
-Javascript
-[LEETCODE](https://leetcode.com/tomatokillerotk/)
-* mechine learning
+**Machine Learning**  
+* learning  
 
-<!-- * linux kernel
---hackmd link-- -->
-## 
+**Linux kernel**  
+* learning 
+
+## Project 
+
