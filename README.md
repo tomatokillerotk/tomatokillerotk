@@ -7,8 +7,7 @@
 * React Flask  
 * Html CSS Javascript  
 
-**Programing Language**  
-[Leetcode profile](https://leetcode.com/tomatokillerotk/)  
+**Programing Language**  [Leetcode profile](https://leetcode.com/tomatokillerotk/)  
 * C++  
 * Python  
 * Rust  
