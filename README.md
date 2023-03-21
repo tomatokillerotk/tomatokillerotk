@@ -8,10 +8,11 @@
 * Html CSS Javascript  
 
 **Programing Language**  
+[Leetcode profile](https://leetcode.com/tomatokillerotk/)  
 * C++  
 * Python  
 * Rust  
-[Leetcode profile](https://leetcode.com/tomatokillerotk/)  
+
 
 **Machine Learning**  
 * learning  
