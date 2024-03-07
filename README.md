@@ -1,31 +1,12 @@
-
-
-
 ## Skill
-
-
-
-**Front End**  
-* React Flask  
-* Html CSS Javascript  
-
-**Back End**
-* learning 
-
-**Machine Learning**  
-* learning  
-
-**Linux kernel**  
-* learning 
-
-**Android**
-Kotlin
-
-## Project 
-[Personal Website](https://tomatokillerotk.github.io/)
+**Web**
+- frontend : react, javascript
+- backend : django, flask
+- database : MySQL
 
 **Programing Language**  
-* C++  
-* Python  
-* Rust  
-* [Leetcode profile](https://leetcode.com/tomatokillerotk/)  
+- C++
+- Python  
+
+**Course Project**
+- UCB CS61A: Hog,Cats,Ants,Scheme
